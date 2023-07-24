@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": ["source.formatDocument", "source.fixAll.eslint"],
+    "eslint.codeActionsOnSave.mode": "problems",
+    "typescript.preferences.importModuleSpecifier": "non-relative",
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.words": ["onboarded"]
+  }
+  
